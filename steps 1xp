@@ -1,0 +1,8 @@
+open git bash from folder where you already have ur html files
+git init 
+git status
+git add -A
+git commit -M "ANSH JAIN"
+git remote add.......
+git set- url.........
+git push origin main
